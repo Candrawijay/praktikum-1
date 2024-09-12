@@ -19,7 +19,7 @@
    TTL    : Samarinda, 22 Desember 2002
    Alamat : Jln. Keledang RT.13 No.26
  
-4. Nama   : Ilham ILyas
+4. Nama   : Joko Anwar
    NIM    : H2020000004
    JK     : Laki - Laki
    Agama  : Islam
